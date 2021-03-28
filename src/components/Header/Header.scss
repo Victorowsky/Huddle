@@ -1,0 +1,28 @@
+.header {
+	width: 90%;
+	max-width: 1440px;
+	margin: 150px auto;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 70px;
+	height: auto;
+	align-items: center;
+}
+.logoImage {
+	display: flex;
+	width: 300px;
+}
+.image {
+	width: 100%;
+	height: auto;
+}
+
+@media (max-width: 600px) {
+	.header {
+		font-size: 15px;
+		margin: 40px auto;
+	}
+	.header .image {
+		width: 70%;
+	}
+}

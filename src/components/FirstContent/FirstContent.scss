@@ -1,0 +1,51 @@
+@import "../../variables";
+
+.firstContent {
+	display: flex;
+	margin: 0 auto;
+	width: 90%;
+	max-width: 1440px;
+	justify-content: center;
+	margin-top: 70px;
+	min-height: 40vh;
+	align-items: center;
+	flex-direction: column;
+	text-align: center;
+}
+.firstContnet_Text {
+	width: 100%;
+	max-width: 400px;
+	text-align: center;
+}
+.button_One {
+	-webkit-tap-highlight-color: transparent;
+	padding: 25px;
+	outline: none;
+	border: none;
+	background-color: $pink;
+	border-radius: 40px;
+	color: white;
+	width: 100%;
+	max-width: 340px;
+	font-weight: 700;
+	font-size: 15px;
+	margin-top: 20px;
+	cursor: pointer;
+	box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.37);
+	transition: 0.1s ease-in-out background;
+}
+.button_One:hover {
+	background-color: $lightPink;
+	box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.521);
+}
+.firstContent_Image {
+	width: 100%;
+	max-width: 1000px;
+	margin-top: 70px;
+	// text-align: start;
+}
+@media (max-width: 600px) {
+	.firstContent_Image {
+		margin-top: 10%;
+	}
+}
