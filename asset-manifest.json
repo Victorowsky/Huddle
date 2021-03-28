@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Huddle/static/css/main.27bf158d.chunk.css",
-    "main.js": "/Huddle/static/js/main.228577a2.chunk.js",
-    "main.js.map": "/Huddle/static/js/main.228577a2.chunk.js.map",
+    "main.css": "/Huddle/static/css/main.19d5478c.chunk.css",
+    "main.js": "/Huddle/static/js/main.ccb27189.chunk.js",
+    "main.js.map": "/Huddle/static/js/main.ccb27189.chunk.js.map",
     "runtime-main.js": "/Huddle/static/js/runtime-main.d9f404b5.js",
     "runtime-main.js.map": "/Huddle/static/js/runtime-main.d9f404b5.js.map",
     "static/js/2.da36023c.chunk.js": "/Huddle/static/js/2.da36023c.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.22d0f950.chunk.js": "/Huddle/static/js/3.22d0f950.chunk.js",
     "static/js/3.22d0f950.chunk.js.map": "/Huddle/static/js/3.22d0f950.chunk.js.map",
     "index.html": "/Huddle/index.html",
-    "static/css/main.27bf158d.chunk.css.map": "/Huddle/static/css/main.27bf158d.chunk.css.map",
+    "static/css/main.19d5478c.chunk.css.map": "/Huddle/static/css/main.19d5478c.chunk.css.map",
     "static/js/2.da36023c.chunk.js.LICENSE.txt": "/Huddle/static/js/2.da36023c.chunk.js.LICENSE.txt",
     "static/media/Footer.scss": "/Huddle/static/media/bg-footer-top-desktop.8c0b6c1d.svg",
     "static/media/icon-communities.e889ff65.svg": "/Huddle/static/media/icon-communities.e889ff65.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.d9f404b5.js",
     "static/js/2.da36023c.chunk.js",
-    "static/css/main.27bf158d.chunk.css",
-    "static/js/main.228577a2.chunk.js"
+    "static/css/main.19d5478c.chunk.css",
+    "static/js/main.ccb27189.chunk.js"
   ]
 }
